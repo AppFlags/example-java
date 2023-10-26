@@ -14,7 +14,7 @@ For more information, see the docs: https://docs.appflags.io/sdks/java
 
     * Replace `YOUR_KEY_HERE` with your server key
 
-3. Create a feature flag in your account with the key `test`
+3. Create a `boolean` feature flag in your account with the key `test`
 
 4. Run App.java
 
