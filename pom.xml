@@ -19,7 +19,7 @@
   <dependencies>
     <dependency>
       <groupId>io.appflags</groupId>
-      <artifactId>appflags-java</artifactId>
+      <artifactId>appflags-sdk-java</artifactId>
       <version>1.0.0</version>
     </dependency>
     <dependency>
